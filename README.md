@@ -1,5 +1,4 @@
 # NVIDIA GPU Monitor
-// In English: NVIDIA GPU Monitor
 A simple terminal-based GUI to monitor NVIDIA GPU usage, memory, and temperature using the `nvidia-smi` command.
 
 ## Features
